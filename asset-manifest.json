@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mern-ecommerce/static/css/main.62f98aa1.css",
+    "main.js": "/mern-ecommerce/static/js/main.ac5c66f2.js",
+    "static/media/kids-2.jpeg": "/mern-ecommerce/static/media/kids-2.f09f98d1fa82c7f5fc80.jpeg",
+    "static/media/women-1.jpeg": "/mern-ecommerce/static/media/women-1.a3ab3f0b92f8610cad9e.jpeg",
+    "static/media/men-1.jpeg": "/mern-ecommerce/static/media/men-1.1be673ab928cc08bb100.jpeg",
+    "static/media/men2.png": "/mern-ecommerce/static/media/men2.e2bb29b95d23d0e4e42f.png",
+    "index.html": "/mern-ecommerce/index.html",
+    "main.62f98aa1.css.map": "/mern-ecommerce/static/css/main.62f98aa1.css.map",
+    "main.ac5c66f2.js.map": "/mern-ecommerce/static/js/main.ac5c66f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62f98aa1.css",
+    "static/js/main.ac5c66f2.js"
+  ]
+}
